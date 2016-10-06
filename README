@@ -1,1 +1,24 @@
 Advanced Web Scripting: Challenge 1
+
+create a website with 4-5 pages:
+- index.html
+- bio.html
+- portfolio.html
+- contact.html
+
+- The site can be for anything, but you are welcome
+  to use this challenge to begin your personal portfolio website.
+
+Requirements:
+1.) must create a navigation created from an unordered list
+2.) each page must have a title and heading text, along with
+    a sentence or two describing what the page is.
+3.) create external css stylesheet and create base styles for
+    body background color and font color.
+4.) style the navigation bar created from the unordered list
+5.) bonus: use semantic html5 markup correctly
+6.) create git repo on your github account and commit files
+    to repo to save work.
+
+- Due by 5pm next Tuesday (October 11)
+
