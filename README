@@ -1,5 +1,6 @@
-Advanced Web Scripting: Challenge 1
+Advanced Web Scripting:
 
+...PART 1....
 create a website with 4-5 pages:
 - index.html
 - bio.html
@@ -22,3 +23,17 @@ Requirements:
 
 - Due by 5pm next Tuesday (October 11)
 
+//////////////////////////////////////////////
+
+...PART 2...
+Challenge:
+create a 2 column site layout for the site created in the previous html challenge (a main column and a sidebar)
+
+Requirements:
+1.) create reusable css class selectors for ‘rows’ and ‘columns'
+2.) add a heading to the sidebar and descriptive content
+3.) include padding and margins to add space between the edges of the columns and the content
+4.) make layout responsive with your own custom css using percentage-based width values and @media breakpoints (frameworks like bootstrap are not allowed)
+5.) add one CSS transition and one CSS transform that are triggered as hov-states of their selectors
+6.) make at least one git commit with detailed message for at least every 20 lines of code (commit often and always!)
+7.) add everything to existing github repo
