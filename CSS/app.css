@@ -107,6 +107,9 @@ nav ul li a {
 
 @media only screen and (max-width: 600px) {
     .wrapper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
         flex-direction: column;
     }
     header {
@@ -119,5 +122,8 @@ nav ul li a {
     }
     .column {
         width: 100%;
+    }
+    .column--sidebar {
+        display: none;
     }
 }
