@@ -93,16 +93,31 @@ nav ul li a {
     color: #fff;
 }
 
-.column--main {
+.column__main {
     height: 100%;
     width: 80%;
     background: #2196f3;
 }
 
-.column--sidebar {
+.column__sidebar {
     height: 100%;
     width: 20%;
     background: #ccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.column__sidebar--item {
+    height: 100px;
+    width: 100px;
+    background: #2196f3;
+    margin: 1.5em;
+    transition: all .3s ease-in-out;
+}
+
+.column__sidebar--item:hover {
+    transform: scale(1.1) rotate(45deg);
 }
 
 @media only screen and (max-width: 600px) {
@@ -133,7 +148,7 @@ nav ul li a {
     .column {
         width: 100%;
     }
-    .column--sidebar {
+    .column__sidebar {
         display: none;
     }
 }
