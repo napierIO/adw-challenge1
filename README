@@ -37,3 +37,22 @@ Requirements:
 5.) add one CSS transition and one CSS transform that are triggered as hov-states of their selectors
 6.) make at least one git commit with detailed message for at least every 20 lines of code (commit often and always!)
 7.) add everything to existing github repo
+
+//////////////////////////////////////////////
+
+...PART 3...
+Challenge:
+create a 2 column site layout for the site created in the previous html challenge (a main column and a sidebar)
+
+Requirements:
+1.) complete the "Hello World" excercism.io exercise.
+2.) choose one of the following excercism excercises to complete:
+    - 'Bob'
+    - 'Beer song'
+    - 'Anagram'
+3.) add external javascript file to the site project started during weeks 1 and 2 and add a console.log to display
+    "hello world!" in the browser's log and push changes to your existing project's github repo in order to be graded.
+4.) commit all completed excersism.io exercises to github and email or slack me a link to the github repo by 5pm on
+    October 25th to be graded.  work must be submitted via github to be graded.
+
+    https://github.com/napierIO/exercism
